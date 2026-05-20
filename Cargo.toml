@@ -1,8 +1,8 @@
 [package]
 name = "GNA-AEFR"
-version = "0.8.4"
+version = "0.8.5"
 edition = "2021"
-authors =["OxidizedSchale<3997101522@qq.com>"]
+authors =["OxidizedSchale<ExtraShiningWonder@gmail.com>"]
 description = "GNA's Not AA : AEFR's Eternal Freedom & Rust-rendered - A high-performance, open-source editor for Blue Archive fan-content."
 license = "AGPL-3.0-only" 
 # build = "build.rs"
